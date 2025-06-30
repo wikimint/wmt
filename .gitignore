@@ -1,0 +1,10 @@
+# Solidity project
+artifacts/
+cache/
+node_modules/
+.env
+.env.local
+*.log
+coverage/
+build/
+dist/
