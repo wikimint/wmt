@@ -2,21 +2,21 @@
 
 **Wikimint (WMT)** is a BEP-20 utility token on the BNB Smart Chain that powers a blockchain-based content and community engagement platform. It is designed to reward users for their contributions, promote decentralized participation, and support staking, governance, and future integrations.
 
-## 🔗 Smart Contract
+## Smart Contract
 - **Contract Address:** [`0x4ddb10470db0416dfe2a421c392cda7965454267`](https://bscscan.com/token/0x4ddb10470db0416dfe2a421c392cda7965454267)
 - **Token Standard:** BEP-20
 - **Chain:** Binance Smart Chain (BSC)
 
-## 📄 Whitepaper
+## Whitepaper
 [Download Whitepaper](https://app.wikimint.com/wmt/whitepaper.pdf)
 
-## 🌐 Official Links
+## Official Links
 - Website: [https://app.wikimint.com/wmt](https://app.wikimint.com/wmt)
 - Twitter: [@wikimint](https://twitter.com/wikimint)
 - Facebook: [facebook.com/wikimintofficial](https://facebook.com/wikimintofficial)
 - LinkedIn: [linkedin.com/company/wikimintofficial](https://www.linkedin.com/company/wikimintofficial)
 
-## 📁 Repository Contents
+## Repository Contents
 - `whitepaper.pdf` – Full whitepaper outlining token purpose and roadmap
 - `smart-contract/` – Contains source code of WMT smart contract
 - `logo.png` – Token/project logo
@@ -42,6 +42,8 @@ WMT has a fixed maximum supply and is distributed according to a transparent all
 
 ## 🔒 License
 This project is licensed under the GNU General Public License v3.0 – see the [LICENSE](LICENSE) file for details.
+
+Read our [Tokenomics & Security Summary](./tokenomics.md) for details about WMT token locking, supply, and audit notes.
 
 ## 🧑‍💻 Author
 Selvakumaran Krishnan – Developer and Founder  
