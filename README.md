@@ -3,7 +3,7 @@
 **Wikimint (WMT)** is a BEP-20 utility token on the BNB Smart Chain that powers a blockchain-based content and community engagement platform. It is designed to reward users for their contributions, promote decentralized participation, and support staking, governance, and future integrations.
 
 ## Smart Contract
-- **Contract Address:** [`0x4ddb10470db0416dfe2a421c392cda7965454267`](https://bscscan.com/token/0x4ddb10470db0416dfe2a421c392cda7965454267)
+- **Contract Address:** [`0x8274fc049f6d7c57df841ef3eacdf779f2ecd2b7`](https://bscscan.com/token/0x8274fc049f6d7c57df841ef3eacdf779f2ecd2b7)
 - **Token Standard:** BEP-20
 - **Chain:** Binance Smart Chain (BSC)
 

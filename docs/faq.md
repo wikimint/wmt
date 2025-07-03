@@ -26,7 +26,7 @@ Both. While WMT is a cryptocurrency (BEP-20), its primary use is within the Wiki
 
 ### 🔹 Where is the smart contract deployed?
 
-WMT is deployed on the Binance Smart Chain: 0x4ddb10470db0416dfe2a421c392cda7965454267
+WMT is deployed on the Binance Smart Chain: 0x8274fc049f6d7c57df841ef3eacdf779f2ecd2b7
 
 ---
 
