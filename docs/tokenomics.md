@@ -36,7 +36,6 @@ These warnings are **non-applicable** and **pose no real risk** to holders.
 ## Key Links
 
 - **Contract Address**: `0x8274fc049f6d7c57df841ef3eacdf779f2ecd2b7` <!-- Replace with actual contract address -->
-- **Renounce Ownership Tx**: [View on BscScan](https://bscscan.com/tx/0xc5aab67786dd0a4fda6fc20e542aed127cd13018260c21f9245969b0f20856fa) <!-- Replace with actual TX link -->
 - **Total Supply Proof**: [View Token Tracker](https://bscscan.com/token/0x8274fc049f6d7c57df841ef3eacdf779f2ecd2b7) <!-- Replace with token page link -->
 
 ---
